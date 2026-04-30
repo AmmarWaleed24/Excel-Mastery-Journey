@@ -11,5 +11,3 @@ In this module, I implemented logic into my spreadsheets, allowing for automated
 `=IF(Sales > 10000, "Excellent", IF(Sales > 5000, "Good", "Needs Review"))`
 
 ---
-
-**الآن، قم بتحديث ملفك الكبير بإضافة Sheet 3 وطبق فيها هذه الدوال، وارفع الملف المحدث على GitHub. هل أنت مستعد للدرس القادم (Lookup Functions - XLOOKUP) وهو أقوى درس في إكسيل؟**
