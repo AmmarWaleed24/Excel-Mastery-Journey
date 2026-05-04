@@ -51,7 +51,7 @@ Welcome to my learning journey! This repository is a live documentation of my pr
 | Milestone | Status | Project Link |
 | :--- | :---: | :--- |
 | **Phase 1: Foundations** | ▓▓▓▓▓▓▓▓▓▓ 100% | [View Files](./) |
-| **Phase 2: Advanced Analysis** | ▓▓▓▓▓▓▓▓░░ 80% | [View Modules](./) |
+| **Phase 2: Advanced Analysis** | ▓▓▓▓▓▓▓▓▓▓ 100% | [View Modules](./) |
 | **Phase 3: Automation (Power Query)** | ░░░░░░░░░░ 0% | [Upcoming] |
 
 ---
