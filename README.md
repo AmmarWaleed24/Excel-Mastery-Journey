@@ -50,8 +50,8 @@ Welcome to my learning journey! This repository is a live documentation of my pr
 
 | Milestone | Status | Project Link |
 | :--- | :---: | :--- |
-| **Phase 1: Foundations** | ▓▓▓▓▓▓▓▓▓▓ 100% | [[View Files](https://gemini.google.com/app/6334800607fb01af?utm_source=app_launcher&utm_medium=owned&utm_campaign=base_all)](./) |
-| **Phase 2: Advanced Analysis** | ▓▓▓▓▓▓▓▓▓▓ 100% | [[View Modules](https://gemini.google.com/app/6334800607fb01af?utm_source=app_launcher&utm_medium=owned&utm_campaign=base_all)](./) |
+| **Phase 1: Foundations** | ▓▓▓▓▓▓▓▓▓▓ 100% | [[View Files]](./) |
+| **Phase 2: Advanced Analysis** | ▓▓▓▓▓▓▓▓▓▓ 100% | [[View Modules]()](./) |
 | **Phase 3: Automation (Power Query)** | ░░░░░░░░░░ 0% | [Upcoming] |
 
 ---
