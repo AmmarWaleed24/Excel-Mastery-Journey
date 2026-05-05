@@ -52,7 +52,6 @@ Welcome to my learning journey! This repository is a live documentation of my pr
 | :--- | :---: | :--- |
 | **Phase 1: Foundations** | ▓▓▓▓▓▓▓▓▓▓ 100% | [[View Files]](./) |
 | **Phase 2: Advanced Analysis** | ▓▓▓▓▓▓▓▓▓▓ 100% | [[View Modules]()](./) |
-| **Phase 3: Automation (Power Query)** | ░░░░░░░░░░ 0% | [Upcoming] |
-
+| **Phase 3: Automation (Power Query)** | ▓▓░░░░░░░░ 20% | [View Modules](./) |
 ---
 *“The goal is to turn data into information, and information into insight.”*
